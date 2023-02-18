@@ -27,16 +27,8 @@ The company wants to know:
 - Jupyter Notbook 6.4.12
 - VS Code 1.74.2
 
-## Result:
-
-## Conclusions:
-
-## Acknowledgements:
-
-
-
 ## Contact
 Created by:-
 #### Aditya Kumar Pal
 ##### [@ErAK1006]
-##### 
+##### https://github.com/ErAK1006/Assignment-Advanced-Regression
